@@ -49,7 +49,7 @@ Mehr dazu auf [davidklink.de/projekte](https://davidklink.de/projekte).
 <p>
   <a href="https://davidklink.de"><img src="https://img.shields.io/badge/davidklink.de-E8692A?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
   <a href="mailto:kontakt@davidklink.de"><img src="https://img.shields.io/badge/E--Mail-0078D4?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/david-klink-2222b2266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://de.linkedin.com/in/david-klink-702383298" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
