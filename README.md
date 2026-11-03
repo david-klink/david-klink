@@ -8,7 +8,7 @@
 <p align="center">
   <b>Fullstack-Webentwickler</b> · Laravel · Vue · Tailwind  
   <br/>
-  Leidenschaft für <i>moderene UI/UX</i>, performanten Code und Durstlöscher.
+  Leidenschaft für <i>moderne UI/UX</i>, performanten Code und Durstlöscher.
 </p>
 
 ---
@@ -37,14 +37,19 @@
 ---
 
 ## 📌 Projekte
-- 🎧 **MuchBetterBot** – Discord Bot
+- 🏢 **B2B-Vertriebsplattform** – Kundenverwaltung, Angebote, Aufträge, individuelle Mietpreise und Vertriebsauswertungen in einer Anwendung (beruflich, im Team)
+- 🎙️ **JARVIS** – Sprachsteuerung am eigenen Rechner, Zuhören und Spracherkennung bleiben lokal
+- 🏠 **Homelab & Smart Home** – eigene Dienste, Smart Home und Energieverbrauch an einem Ort
+
+Mehr dazu auf [davidklink.de/projekte](https://davidklink.de/projekte).
 
 ---
 
 ## 📫 Kontakt
 <p>
-  <a href="mailto:info@mafaka.de"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/USERNAME](https://www.linkedin.com/in/david-klink-2222b2266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://davidklink.de"><img src="https://img.shields.io/badge/davidklink.de-E8692A?style=for-the-badge&logo=firefoxbrowser&logoColor=white"></a>
+  <a href="mailto:kontakt@davidklink.de"><img src="https://img.shields.io/badge/E--Mail-0078D4?style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/david-klink-2222b2266/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
