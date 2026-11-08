@@ -37,11 +37,12 @@
 ---
 
 ## 📌 Projekte
-- 🏢 **B2B-Vertriebsplattform** – Kundenverwaltung, Angebote, Aufträge, individuelle Mietpreise und Vertriebsauswertungen in einer Anwendung (beruflich, im Team)
+- 🏢 **Individuelle Unternehmenssoftware** – Digitalisierung und Automatisierung betrieblicher Geschäftsprozesse in verschiedenen Kundenprojekten (beruflich, im Team)
 - 🎙️ **JARVIS** – Sprachsteuerung am eigenen Rechner, Zuhören und Spracherkennung bleiben lokal
 - 🏠 **Homelab & Smart Home** – eigene Dienste, Smart Home und Energieverbrauch an einem Ort
 
 Mehr dazu auf [davidklink.de/projekte](https://davidklink.de/projekte).
+Du brauchst eine Website oder Webanwendung? Meine [Leistungen](https://davidklink.de/leistungen).
 
 ---
 
