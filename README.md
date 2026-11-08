@@ -9,6 +9,8 @@
   <b>Fullstack-Webentwickler</b> · Laravel · Vue · Tailwind  
   <br/>
   Leidenschaft für <i>moderne UI/UX</i>, performanten Code und Durstlöscher.
+  <br/><br/>
+  🌐 <a href="https://davidklink.de"><b>davidklink.de</b></a>
 </p>
 
 ---
